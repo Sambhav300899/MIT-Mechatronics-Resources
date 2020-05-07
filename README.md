@@ -7,4 +7,6 @@ A collection of useful links and discussions regarding projects, placements, mas
 
 ## masters
 
+## resources
+
 ## other general info
