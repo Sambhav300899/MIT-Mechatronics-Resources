@@ -14,7 +14,7 @@ Check out these links for markdown formatting in case you need help :
 ## resources :
 1. https://www.pyimagesearch.com/ - an awesome blog to learn about computer vision
 2. https://machinelearningmastery.com/ - This blog covers a huge variety of topics and problem types in ML
-3. [OpenCV python API documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
-4. 
+3. [OpenCV python documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
+4. [OpenCV C++ documentation](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 
 ## other general info
