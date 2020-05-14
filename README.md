@@ -73,7 +73,7 @@ A collection of useful links and discussions regarding projects, placements, mas
 
 - For linear Algebra:
   - Helpful for a strong foundation of Machine learning, Robotics, Deep Learning.
-  - [Lecture Series](https://colab.research.google.com/github/Sambhav300899/test-it-out/blob/master/open_pose.ipynb) by Professor Gilbert Strang] 
+  - [Lecture Series](https://colab.research.google.com/github/Sambhav300899/test-it-out/blob/master/open_pose.ipynb) by Professor Gilbert Strang
 
 <br>
 
