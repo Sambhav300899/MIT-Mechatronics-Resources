@@ -30,6 +30,7 @@ A collection of useful links and discussions regarding Projects, Placements, mas
 ### Placement
 
 - Placement Scedule for 2020
+
 ![Placement Schedule](Placements/docs/placement_schedule_2020.png)
 
   ![Placement Schedule 2](Placements/docs/placement_schedule_2020_not_present.png)
@@ -46,6 +47,7 @@ A collection of useful links and discussions regarding Projects, Placements, mas
 ### Advice
 
 - [2016-2020 batch](Advice/Batch_2016_2020/README.md)
+
   - [Placement advice](Advice/Batch_2016_2020/README.md#placementsadvice)
 
 
