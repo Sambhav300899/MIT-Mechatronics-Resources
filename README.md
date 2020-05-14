@@ -63,18 +63,17 @@ A collection of useful links and discussions regarding projects, placements, mas
 
 ### Machine learning, Computer Vision
 
-1. https://www.pyimagesearch.com/ - an awesome blog to learn about computer vision
-2. https://machinelearningmastery.com/ - This blog covers a huge variety of topics and problem types in ML
-3. [OpenCV python documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
-4. [OpenCV C++ documentation](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
-5. [Keras Documentation](https://keras.io/) 
+- https://www.pyimagesearch.com/ - an awesome blog to learn about computer vision
+- https://machinelearningmastery.com/ - This blog covers a huge variety of topics and problem types in ML
+- [OpenCV python documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
+- [OpenCV C++ documentation](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
+- [Keras Documentation](https://keras.io/) 
 
 ### Mathematics:
 
 - For linear Algebra:
   - Helpful for a strong foundation of Machine learning, Robotics, Deep Learning.
-  - <https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/>
-  - By Professor Gilbert Strang 
+  - [Lecture Series](https://colab.research.google.com/github/Sambhav300899/test-it-out/blob/master/open_pose.ipynb) by Professor Gilbert Strang] 
 
 <br>
 
