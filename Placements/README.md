@@ -6,25 +6,12 @@ This folder contains placement details of the past batches. The placement portal
 
 - [Placements](#placements)
   - [Table of contents](#table-of-contents)
+    - [Resources](#resources)
   - [Batch wise summary](#batch-wise-summary)
     - [2020](#2020)
       - [Placement Schedule](#placement-schedule)
-      - [Resources](#resources)
 
-## Batch wise summary
-
-Batches are given as per the year of graduation
-
-### 2020
-
-Batch of 2016-2020 placement can be found in [this](./Batch_2020/Placement_stats.xlsx) file
-
-#### Placement Schedule
-
-Placement Schedule
-![Schedule](./docs/placement_schedule_2020.png)
-
-#### Resources
+### Resources
 
 - **Aptitude**
   - __Group Discussion__
@@ -45,3 +32,18 @@ Placement Schedule
   - __Interview__
     - [Hackerrank Interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit)
     - [crazyforcode Interview puzzles](http://www.crazyforcode.com/top-10-interview-puzzles/)
+
+
+
+## Batch wise summary
+
+Batches are given as per the year of graduation
+
+### 2020
+
+Batch of 2016-2020 placement can be found in [this](./Batch_2020/Placement_stats.xlsx) file
+
+#### Placement Schedule
+
+Placement Schedule
+![Schedule](./docs/placement_schedule_2020.png)
