@@ -10,6 +10,12 @@ A collection of useful links and discussions regarding projects, placements, mas
 
 ## Placements
 
+### 2020 Batch Shedule
+
+![](img/placements/placement_schedule_2020.png)
+
+![](img/placements/placement_shedule_not_present.png)
+
 ### Aptitude
 
 [Group discussion](https://www.indiabix.com/group-discussion/topics-with-answers/)
@@ -80,6 +86,12 @@ A collection of useful links and discussions regarding projects, placements, mas
 <br>
 <br>
 
+
+## Contributors
+
+- Sambhav300899
+- Soulbliss
+- TheProjectsGuy
 
 ## Contributing guidelines:
 
