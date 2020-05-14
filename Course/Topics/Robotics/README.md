@@ -6,10 +6,10 @@ Resources for Robotics
 
 - [Robotics Resources](#robotics-resources)
   - [Table of contents](#table-of-contents)
-  - [Fields](#fields)
+  - [Topics](#Topics)
     - [Robotics](#robotics)
 
-## Fields
+## Topics
 
 ### Robotics
 
