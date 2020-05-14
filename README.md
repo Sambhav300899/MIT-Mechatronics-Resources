@@ -25,7 +25,7 @@ You can also browse by [Fields](./Course/Fields/README.md)
 
 ### Placement
 
-Resources related to the placements are in the [Placement folder](./Placements/README.md)
+Resources related to the placements are in the [Placement folder](./Placements/README.md). Latest Batch of 2020 placement can be found [here](./Placements/Batch_2020/Placement_stats.xlsx).
 
 ### Advice
 

@@ -1,6 +1,6 @@
 # Placements
 
-This folder contains placement details of the past batches. The placement portal will open on link http://172.16.61.204/student-portal/
+This folder contains placement details of the past batches. The placement portal will open on link http://172.16.61.204/student-portal/html/index.php
 
 ## Table of contents
 
@@ -17,7 +17,7 @@ Batches are given as per the year of graduation
 
 ### 2020
 
-Batch of 2016-2020
+Batch of 2016-2020 placement can be found in [this](./Batch_2020/Placement_stats.xlsx) file
 
 #### Placement Schedule
 
