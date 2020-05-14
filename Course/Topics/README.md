@@ -1,17 +1,17 @@
-# Fields under Mechatronics
+# Topics under Mechatronics
 
 This folder contains sub-folders, each containing links to resources of a particular field.
 
 ## Table of contents
 
-- [Fields under Mechatronics](#fields-under-mechatronics)
+- [Topics under Mechatronics](#topics-under-mechatronics)
   - [Table of contents](#table-of-contents)
-  - [Fileds](#fileds)
+  - [Topics](#topics)
     - [Mathematics](#mathematics)
     - [Machine Learning](#machine-learning)
     - [Robotics](#robotics)
 
-## Fileds
+## Topics
 
 ### Mathematics
 

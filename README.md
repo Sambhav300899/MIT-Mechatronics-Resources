@@ -15,26 +15,38 @@ A collection of useful links and discussions regarding Projects, Placements, mas
 
 ## Categories
 
-Things that are in this repository
 
 ### Course
 
-Resources for the Mechatronics course are in the [Course folder](./Course/README.md)
+  - [2014-2018 Batch drive links](./Course/Batch_2014_2018/README.md#drivelinks)
+  - [Topics](./Course/Topics/README.md)
+    - [Mathematics](Course/Topics/Mathematics/README.md)
+    - [Machine Learning](Course/Topics/Machine_Learning/README.md)
+    - [Robotics](Course/Topics/Robotics/README.md)
 
-You can also browse by [Fields](./Course/Fields/README.md)
+
+
 
 ### Placement
 
-Resources related to the placements are in the [Placement folder](./Placements/README.md). Latest Batch of 2020 placement can be found [here](./Placements/Batch_2020/Placement_stats.xlsx).
+- Placement Scedule for 2020
+![Placement Schedule](Placements/docs/placement_schedule_2020.png)
+
+  ![Placement Schedule 2](Placements/docs/placement_schedule_2020_not_present.png)
+
+- Latest Batch of 2020 placement  stats to be updated [here](./Placements/Batch_2020/Placement_stats.xlsx).
 
 ### Advice
 
-Valuable advice given by seniors can be found in the [Advice folder](./Advice/README.md)
+- [2016-2020 batch](Advice/Batch_2016_2020/README.md)
+  - [Placement advice](Advice/Batch_2016_2020/README.md#placementsadvice)
+
+
 
 ## Contributors
 
-- Sambhav300899
-- Soulbliss
+- [Sambhav300899](https://github.com/Sambhav300899)
+- [Soulbliss](https://github.com/soulbliss)
 - [TheProjectsGuy](https://github.com/TheProjectsGuy)
 
 ### Want to be a contributor

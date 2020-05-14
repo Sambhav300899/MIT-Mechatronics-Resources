@@ -6,12 +6,12 @@ Resources for Machine Learning, Computer Vision and Artificial Intelligence
 
 - [Machine Learning Resources](#machine-learning-resources)
   - [Table of contents](#table-of-contents)
-  - [Fields](#fields)
+  - [Topics](#Topics)
     - [Artificial Intelligence](#artificial-intelligence)
     - [Machine Learning](#machine-learning)
     - [Computer Vision](#computer-vision)
 
-## Fields
+## Topics
 
 ### Artificial Intelligence
 
