@@ -34,6 +34,13 @@ A collection of useful links and discussions regarding Projects, Placements, mas
 
   ![Placement Schedule 2](Placements/docs/placement_schedule_2020_not_present.png)
 
+
+- [Getting ready for placements](Placements/Readme.md/#resources)
+
+  - [Aptitude](Placements/README.md#aptitude)
+  
+  - [Coding](Placements/README.md#coding)
+
 - Latest Batch of 2020 placement  stats to be updated [here](./Placements/Batch_2020/Placement_stats.xlsx).
 
 ### Advice
