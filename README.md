@@ -4,14 +4,11 @@ A collection of useful links and discussions regarding projects, placements, mas
 
 
 ## Projects and courses
-
-
-
+<br>
+<br>
 
 
 ## Placements
-
-
 
 ### Aptitude
 
@@ -27,7 +24,6 @@ A collection of useful links and discussions regarding projects, placements, mas
 [Brain teasers](http://www.crazyforcode.com/brain-teasers/)
 
 
-
 ### Coding
 
 [Hackerrank Interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit)
@@ -35,34 +31,27 @@ A collection of useful links and discussions regarding projects, placements, mas
 [Interview puzzles](http://www.crazyforcode.com/top-10-interview-puzzles/)
 
 
-
 ### [Advice for placements by seniors](/advices.md)
 
-
-
-
-
-
+<Br>
 
 ## Masters
-
+<br>
+<br>
 
 
 ## Semester resources:
 
 
-
 ### 2014 batch drive links:
 
-#### [5th sem](https://drive.google.com/folderview?id=0B6S9AxB3IyRYSmtBNU9MaGJhYnc)
+#### - [5th sem](https://drive.google.com/folderview?id=0B6S9AxB3IyRYSmtBNU9MaGJhYnc)
 
-#### [6th sem](https://drive.google.com/folderview?id=0B6S9AxB3IyRYUVdkX19zai1ab00)
+#### - [6th sem](https://drive.google.com/folderview?id=0B6S9AxB3IyRYUVdkX19zai1ab00)
 
-- [Autotronics and HEV](https://drive.google.com/drive/u/0/folders/0B2kBdeXt5BVpYW1aWXpiS01QV00)
+  - [Autotronics and HEV](https://drive.google.com/drive/u/0/folders/0B2kBdeXt5BVpYW1aWXpiS01QV00)
 
-#### [7th sem](https://drive.google.com/folderview?id=0B6S9AxB3IyRYdmVoU0hEaS12X1k)
-
-
+#### - [7th sem](https://drive.google.com/folderview?id=0B6S9AxB3IyRYdmVoU0hEaS12X1k)
 
 
 
@@ -74,8 +63,6 @@ A collection of useful links and discussions regarding projects, placements, mas
 4. [OpenCV C++ documentation](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 5. [Keras Documentation](https://keras.io/) 
 
-
-
 ### Mathematics:
 
 - For linear Algebra:
@@ -83,14 +70,15 @@ A collection of useful links and discussions regarding projects, placements, mas
   - <https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/>
   - By Professor Gilbert Strang 
 
-
+<br>
 
 ## Other general info:
 
 
 
 
-
+<br>
+<br>
 
 
 ## Contributing guidelines:
