@@ -13,7 +13,7 @@ This folder contains placement details of the past batches. The placement portal
 
 ### Resources
 
-- **Aptitude**
+#### **Aptitude**
   - __Group Discussion__
     - [indiabix.com](https://www.indiabix.com/group-discussion/topics-with-answers/)
   - __Puzzles__
@@ -22,7 +22,7 @@ This folder contains placement details of the past batches. The placement portal
     - [Tech inteview puzzles](https://puzzlefry.com/top-25-tech-interview-puzzles-with-answers/)
     - [Analytics interview](https://www.analyticsvidhya.com/blog/2014/09/commonly-asked-puzzles-analytics-interviews/)
     - [Brain teasers](http://www.crazyforcode.com/brain-teasers/)
-- **Coding**
+#### **Coding**
   - __Programming Languages__
     - [HackerRank Python](https://www.hackerrank.com/domains/python)
     - [HackerRank C++](https://www.hackerrank.com/domains/cpp)
