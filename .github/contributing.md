@@ -9,6 +9,7 @@ Thanks for thinking of contributing to this repository.
   - [Contributing guidelines](#contributing-guidelines-1)
     - [Become a contributor](#become-a-contributor)
     - [Workflow](#workflow)
+  - [Repository structure](#repository-structure)
   - [Tools used](#tools-used)
     - [git](#git)
     - [Typora](#typora)
@@ -29,6 +30,36 @@ Follow this workflow to make changes and contribute to this repository. Make sur
 3. Make changes to the correct files.
 4. Create a pull request to merge to the `dev` branch.
 5. After other contributors review and finalize everything, the work shall be merged with the `master` branch and the pull request is then closed.
+
+## Repository structure
+Take a note of the main structure used.
+
+Each immediate directory has a readme file which needs to be updated.
+
+```
+├── Advice
+│   └──Batch_2016_2020
+|
+├── Course
+│   ├── Batch_2016_2020
+|   |
+│   └── Topics
+│       ├── Machine_Learning
+│       ├── Mathematics
+│       └── Robotics
+|
+├── Placements
+│   ├── Batch_2020
+│   └──docs
+|
+└── README.md
+
+```
+- Resources for the Mechatronics course are to be put in the [Course folder](./Course/README.md)
+
+- Resources related to the placementsare to be put in the [Placement folder](./Placements/README.md)
+
+- Valuable advice given by seniors are to be put in the [Advice folder](./Advice/README.md)
 
 ## Tools used
 
