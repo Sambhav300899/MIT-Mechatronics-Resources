@@ -14,6 +14,7 @@ Thanks for thinking of contributing to this repository.
     - [git](#git)
     - [Typora](#typora)
     - [VSCode](#vscode)
+    - [Atom](#atom)
 
 ## Contributing guidelines
 
@@ -69,13 +70,16 @@ Git is a tool used for version control. It's suggested that you get a little fam
 
 Official page for git [here](https://git-scm.com/).
 
-### Typora
+**You can use any of the following to edit and preview markdown files** :
+- #### Typora
 
 This is a great software to read and review files in this repository. You can get the software [here](https://typora.io/).
 
-### VSCode
+- #### VSCode
 
-VSCode is an amazing text editor. You can get the editor [here](https://code.visualstudio.com/). The following extensions are suggested for the markdown files:
+  - VSCode is an amazing text editor. You can get the editor [here](https://code.visualstudio.com/). The following extensions are suggested for the markdown files:
+  - [Markdown All in One by Yu Zhang](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) for creating table of contents.
+  - [markdownlint by David Anson](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-- [Markdown All in One by Yu Zhang](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) for creating table of contents.
-- [markdownlint by David Anson](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- #### Atom
+In case you are using Atom you can view the markdown preview by pressing ```ctrl + shift + m```. Download atom [here](https://atom.io/)
