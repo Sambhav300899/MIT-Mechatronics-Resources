@@ -20,7 +20,7 @@ Resources for Machine Learning, Computer Vision and Artificial Intelligence
 
 ### Computer Vision
 
-1. [PyImageSearch]https://www.pyimagesearch.com/ - an awesome blog to learn about computer vision and deep learning
+1. [PyImageSearch](https://www.pyimagesearch.com/) - an awesome blog to learn about computer vision and deep learning
 2. [OpenCV](https://docs.opencv.org/4.3.0/) (Open Computer Vision library) - A great open source Computer Vision library which is extensively documented and is available in Python, C++, JavaScript, etc.
    - [C++ API docs](https://docs.opencv.org/4.3.0/d9/df8/tutorial_root.html)
    - [Python API docs](https://docs.opencv.org/4.3.0/d6/d00/tutorial_py_root.html)
